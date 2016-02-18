@@ -1,4 +1,4 @@
-#Tareas iniciales Programadores de lengiajes
+#Tareas iniciales Procesadores de lenguajes
 ##Natalie Dajakaj
 
 En esta práctica comenzaremos a usar:
